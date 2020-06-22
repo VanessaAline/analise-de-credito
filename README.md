@@ -18,7 +18,7 @@ Inteligência Artificial
 
 <h3><b>Descrição do Projeto</b></h3>
 
-Uma aplicação simples feita para simular a reserva de um laboratório numa determinada data por um professor, onde existe uma tela para login e para cadastro de um professor, essa aplicação é baseada de forma visual no sistema da UNINABUCO.
+Uma aplicação feita para simular a análise de crédito de clientes cadastrados em uma base de dados, e com base nessas informações o algoritmo irá definir se o cliente é um BOM ou MAU pagador.
 
 <h3><b>Observações</b></h3>
 
