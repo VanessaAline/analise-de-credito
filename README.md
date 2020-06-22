@@ -19,6 +19,3 @@ Inteligência Artificial
 <h3><b>Descrição do Projeto</b></h3>
 
 Uma aplicação feita para simular a análise de crédito de clientes cadastrados em uma base de dados, e com base nessas informações o algoritmo irá definir se o cliente é um BOM ou MAU pagador.
-
-<h3><b>Observações</b></h3>
-
